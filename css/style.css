@@ -10,3 +10,19 @@
     --text: #fffffc;
     --links: #00baf1;
 }
+
+.container{
+    max-width: 1200px;
+    margin:0 auto;
+}
+
+header{
+    text-align: center;
+    padding: 3rem;
+}
+
+h1{
+    color: var(--title);
+    font-size: 3rem;
+}
+
